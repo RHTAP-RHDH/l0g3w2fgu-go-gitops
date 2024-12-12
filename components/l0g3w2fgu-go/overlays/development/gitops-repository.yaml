@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: l0g3w2fgu-go-gitops-repository
+spec:
+  url: https://github.com/RHTAP-RHDH/l0g3w2fgu-go-gitops
